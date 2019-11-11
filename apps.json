@@ -348,6 +348,8 @@
       {"name":"+pparrot","url":"party-parrot.json"},
       {"name":"-pparrot","url":"party-parrot.js"},
       {"name":"*pparrot","url":"party-parrot-icon.js","evaluate":true}
+    ]
+  },
   {
     "id": "blescan",
     "name": "BLE Scanner",
@@ -358,6 +360,18 @@
       {"name":"+blescan","url":"blescan.json"},
       {"name":"-blescan","url":"blescan.js"},
       {"name":"*blescan","url":"blescan-icon.js", "evaluate":true}
+    ]
+  },
+  {
+    "id": "d20",
+    "name": "D20 magic",
+    "icon": "d20magic.png",
+    "description": "An app which enables you to roll a 20 sided die and track your HP in Magic: The Gathering",
+    "tags": "magic",
+    "storage": [
+      {"name":"+d20","url":"d20magic.json"},
+      {"name":"-d20","url":"d20magic.js"},
+      {"name":"*d20","url":"d20magic-icon.js","evaluate":true}
     ]
   }
 ]
