@@ -1,5 +1,5 @@
 require("Storage").write("+d20",{
-  "name":"Digital D20 man",
+  "name":"D20",
   "src":"-d20"
 });
 
