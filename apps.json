@@ -364,7 +364,7 @@
   },
   {
     "id": "d20",
-    "name": "D20 magic",
+    "name": "D20",
     "icon": "d20magic.png",
     "description": "An app which enables you to roll a 20 sided die and track your HP in Magic: The Gathering",
     "tags": "magic",
