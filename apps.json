@@ -370,7 +370,8 @@
     "tags": "magic",
     "storage": [
       {"name":"+d20","url":"d20magic.json"},
-      {"name":"-d20","url":"d20magic.js"}
+      {"name":"-d20","url":"d20magic.js"},
+      {"name":"*d20","url":"d20magic-icon.js","evaluate":true}
     ]
   }
 ]
